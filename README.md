@@ -1,9 +1,9 @@
 # Classificação de Grãos de Café — Processamento de Imagens
 
 ## Equipe
-- 
--
-- 
+-  [Ana Beatriz Maciel Ferraz](https://github.com/anabmferraz)
+- [Brenda Cristaldo](https://github.com/brendacristaldo)
+- [Werickson Dauta](https://github.com/Wericksonsd)
 
 ## Descrição da Abordagem
 
