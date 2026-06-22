@@ -48,7 +48,7 @@ O projeto aplica a abordagem clássica de classificação de imagens, composta p
 - Matplotlib
 
 ## Links
-- Vídeo de apresentação: 
+- Vídeo de apresentação: [Vídeo](https://drive.google.com/file/d/1EYaalOky_OUOCM6WxGrAAdqcBkw9qJIX/view?usp=drive_link)
 
 ## Instruções de Uso
 1. Abrir o notebook no Google Colab
